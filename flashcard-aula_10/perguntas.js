@@ -1,23 +1,41 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'língua Portuguesa',
+    'O que é um verbo?',
+    'Classe gramatical que exprime principalmente açoẽs,estados e fenõmenos'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Quem foi o primeiro homema chegar na lua?',
+    'Neil Armstrong'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Oque são celulas?',
+    'Estruturas que formam o corpo dos seres vivos'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'How are you?',
+    'Como está?'
 )
+
+criaCartao(
+    'Curiosidades',
+    'Qual o nome da marca de celular mais famosa do mundo?',
+    'Iphone',
+)
+
+
+
+)
+criaCartao(
+ 'Conhecimentos gerais',
+ 'Normalmente quantos litros de sangue uma pessoa tem?',
+ '405ml',
+
+)
+
+    
