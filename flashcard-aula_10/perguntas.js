@@ -29,8 +29,6 @@ criaCartao(
 )
 
 
-
-)
 criaCartao(
  'Conhecimentos gerais',
  'Normalmente quantos litros de sangue uma pessoa tem?',
